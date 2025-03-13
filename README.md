@@ -1,6 +1,5 @@
-# Sexism-Detection
+# Sexism Detection
 
-# Detecting Sexism in Text Using NLP
 
 ## About the Project
 
@@ -42,7 +41,7 @@ A fine-tuned **Twitter-roBERTa-base model** (from Hugging Face) was used to dete
 
 ### Task 2: LLM-Based Models
 
-For this task, **zero-shot and few-shot learning** techniques were tested using **state-of-the-art LLMs**:
+For this task, **zero-shot and few-shot learning** techniques were tested using **LLMs**:
 
 📌 **Meta-Llama-3.1-8B-Instruct**  
 📌 **Phi-3-mini-4k-instruct**  
